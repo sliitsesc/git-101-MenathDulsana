@@ -3,7 +3,7 @@ def calculate_sum(numbers)
     total = 0
     for num in numbers:
         total += num
-    print("The sum of the list is: " + str(total))
+    print("The sum of the list is: " , str(total))
 
 
 if __name__ == "__main__":
